@@ -2,13 +2,13 @@
 
 ## Alat yang akan saya gunakan untuk mengerjakan ide:
 >  
-• Bahasa & Library: Python 3, discord.py, dan python-dotenv.
-• Database: SQLite3 (penyimpanan data pertanyaan spesialis).
-• Platform: Discord Developer Portal & Visual Studio Code.
-
+• Bahasa & Library: Python 3, discord.py, dan python-dotenv
+• Database: SQLite3 (penyimpanan data pertanyaan untuk spesialis)
+• Platform & Tools: Discord Developer Portal, Visual Studio Code, dan Gemini AI (asisten pengembangan)
 ## Proyek ini akan berisi:
 > 
-• Bot Penjawab FAQ Otomatis: Menjawab pertanyaan umum pelanggan lewat kata kunci pesan dan menu pilihan (Dropdown).
-• Tombol Eskalasi Spesialis: Mengarahkan keluhan rumit ke Programmer (web/pembayaran) atau Staf Penjualan (produk).
-• Database Laporan: Tabel SQLite untuk menyimpan semua pertanyaan yang diteruskan ke spesialis.
-• Dokumentasi Admin (README.md): Panduan singkat cara menjalankan dan menggunakan bot bagi admin toko.
+• Penjawab FAQ Otomatis: Menjawab pertanyaan umum pelanggan secara instan melalui deteksi kata kunci dan menu pilihan (Dropdown).
+• Tombol Eskalasi Spesialis: Mengarahkan keluhan rumit ke departemen yang tepat—Programmer (masalah website/pembayaran) atau Staf Penjualan (masalah produk).
+• Integrasi Database Laporan: Tabel SQLite otomatis untuk mencatat seluruh pertanyaan yang diteruskan ke spesialis beserta nomor tiketnya.
+• Antarmuka Pelanggan Interaktif: Tampilan pesan terstruktur menggunakan Discord Embeds agar mudah dipahami pengguna.
+• Dokumentasi Admin (README.md): Panduan lengkap bagi admin toko untuk menjalankan bot dan memantau laporan tiket.
